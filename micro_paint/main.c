@@ -11,7 +11,6 @@ int y;
 char c;
 char **tab = NULL;
 
-
 typedef struct s_element
 {
     char t;
